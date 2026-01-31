@@ -1,7 +1,7 @@
 # Login Test Cases – SauceDemo
 
 ## TC-001: Valid login with correct credentials
-**Precondition:** User is on login page  
+**Precondition:** User is on login page, use credentials from `01-test-plan/test-credentials.md` (Standard User)  
 **Steps:**
 1. Enter valid username
 2. Enter valid password
@@ -11,7 +11,7 @@
 ---
 
 ## TC-002: Login with invalid password
-**Precondition:** User is on login page  
+**Precondition:** User is on login page, use credentials from `01-test-plan/test-credentials.md` (Standard User, incorrect password)  
 **Steps:**
 1. Enter valid username
 2. Enter invalid password
@@ -27,3 +27,4 @@
 2. Leave password empty
 3. Click Login button  
 **Expected Result:** Validation error is displayed
+
