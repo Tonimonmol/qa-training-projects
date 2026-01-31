@@ -15,4 +15,4 @@
 **Priority:** High  
 **Screenshot / Evidence:** login-error.png
 
-**Notes:** [Cualquier comentario adicional]
+**Notes:**
