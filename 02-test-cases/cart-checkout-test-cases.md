@@ -15,6 +15,7 @@
 **Steps:**
 1. Click on cart icon  
 **Expected Result:** Product is displayed in cart
+**Status:** Passed
 
 ---
 
