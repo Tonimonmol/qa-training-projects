@@ -44,6 +44,7 @@
 3. Enter Postal Code
 4. Click Continue  
 **Expected Result:** Checkout overview page is displayed
+**Status:** Passed
 
 ---
 
