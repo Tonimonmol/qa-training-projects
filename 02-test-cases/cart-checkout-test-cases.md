@@ -24,6 +24,7 @@
 **Steps:**
 1. Click "Remove" on product  
 **Expected Result:** Product is removed from cart
+**Status:** Passed
 
 ---
 
