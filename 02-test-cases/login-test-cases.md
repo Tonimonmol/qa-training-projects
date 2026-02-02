@@ -7,6 +7,8 @@
 2. Enter valid password
 3. Click Login button  
 **Expected Result:** User is redirected to products page
+**Status:** Passed  
+**Notes:** Chrome password manager warning displayed (browser-related, not application bug).
 
 ---
 
@@ -16,7 +18,8 @@
 1. Enter valid username
 2. Enter invalid password
 3. Click Login button  
-**Expected Result:** Error message is displayed
+**Expected Result:** Error message is displayed  
+**Status:** Passed
 
 ---
 
@@ -26,5 +29,6 @@
 1. Leave username empty
 2. Leave password empty
 3. Click Login button  
-**Expected Result:** Validation error is displayed
+**Expected Result:** Validation error is displayed  
+**Status:** Passed
 
