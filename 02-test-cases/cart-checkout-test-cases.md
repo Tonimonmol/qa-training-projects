@@ -32,8 +32,8 @@
 **Precondition:** Product added to cart  
 **Steps:**
 1. Click Checkout  
-**Expected Result:** Checkout information page is displayed
-
+**Expected Result:** Checkout information page is display
+**Status:** Passed
 ---
 
 ## TC-008: Complete checkout with valid data
