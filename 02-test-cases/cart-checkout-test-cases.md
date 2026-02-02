@@ -6,6 +6,7 @@
 1. Login to the application
 2. Click "Add to cart" on any product  
 **Expected Result:** Product is added to the cart
+**Status:** Passed
 
 ---
 
