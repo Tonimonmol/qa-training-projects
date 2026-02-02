@@ -54,3 +54,4 @@
 1. Leave all fields empty
 2. Click Continue  
 **Expected Result:** Validation error is displayed
+**Status:** Passed
